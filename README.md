@@ -1,7 +1,7 @@
 ## About Baplisca
 I'm Application Engineer in Rakuten.
 
-Mainly I'm BackEnd Field (Batch processing (TypeScript, Node.js, Jest, shell, csv handling), Data extraction (Hadoop, HQL, MySQL, SQL), BFF・API (Node.js, Nest.js), Infrastructure (k8s), CI/CD (Jenkins), production release/operation/alert support)
+Mainly I'm BackEnd Field (Batch processing (TypeScript, Node.js, Jest, shell, csv handling), Data extraction (Hadoop, HQL, MySQL, SQL), BFF・API (Node.js, Nest.js), Microservices (k8s), CI/CD (Jenkins), production release/operation/alert handling), English Communication
 
 ## My Skills (Highly skilled from left)
 ### Front・Client Side
