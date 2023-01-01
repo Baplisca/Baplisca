@@ -9,7 +9,8 @@ Mainly I'm BackEnd Field
 * Load reduction (Redis)
 * Microservices (k8s)
 * CI/CD (Jenkins)
-* production release, operation, alert handling (PagerDuty, Splunk, Grafana)
+* production release, operation, alert handling (PagerDuty)
+* research, monitoring (Splunk, Grafana)
 * English Communication
 
 ## My Skills (Highly skilled from left)
