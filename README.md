@@ -26,6 +26,20 @@ Mainly I'm BackEnd Field
 ## Other Skill
 * TOEIC 875 (L 470 R 405)
 * Certified ScrumMaster® (CSM®)
+* MSc in Computer Science (2022)
+
+## Language experience
+* TypeScript : Use this language full stack
+* C++ : Competitive programming, game production [work movie](https://youtu.be/c98LeJbuA24)
+* Python : Data processing, Machine Learning
+* Java : Create API with Spring Boot and used R&D Intern
+* C# : game production with Unity [work movie](https://youtu.be/vHEbxELAfvk)
+* Ruby : Create a verification tool as an intern using Ruby on Rails [content](https://hackerslab.aktsk.jp/2021/03/31/102547)
+* Go, Rust : Basic skills
+* SQL : Use in business
+* SML (fp language) : Used in college class
+* Bash, AWK : Use in business
+* PHP : Created an simple inventory management tool with MySQL (SQL)
 
 ## General Presentation
 * [「ボイストラベラー」 技育展 2020 チーム開発部門](https://talent.supporterz.jp/geekten/2020/)
