@@ -35,7 +35,7 @@ Mainly I'm BackEnd Field
 * Java : Create API with Spring Boot and used R&D Intern
 * C# : game production with Unity [work movie](https://youtu.be/vHEbxELAfvk)
 * Ruby : Create a verification tool as an intern using Ruby on Rails [content](https://hackerslab.aktsk.jp/2021/03/31/102547)
-* Go, Rust : Basic skills
+* Go, Rust : Basic skills and create simple api ([gin](https://github.com/gin-gonic/gin), [actix-web](https://github.com/actix/actix-web))
 * SQL : Use in business
 * SML (fp language) : Used in college class
 * Bash, AWK : Use in business
