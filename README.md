@@ -54,9 +54,9 @@ Mainly I'm BackEnd Field
 [![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=2592000)](https://github.com/Baplisca?tab=followers)<br>
 [![YouTube views](https://img.shields.io/youtube/channel/views/UCUEUc2teEFnYEXG-MtEncrA?style=social)](https://www.youtube.com/@baplisca7980)<br>
 [![Profile views](https://gpvc.arturio.dev/Baplisca)](https://github.com/Baplisca)<br>
-[![Connpass](https://img.shields.io/badge/Connpass-official-red)](https://connpass.com/user/Baplisca/)<br>
+[![Connpass](https://img.shields.io/badge/Connpass-casual-red)](https://connpass.com/user/Baplisca/)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-official-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
-[![Brog](https://img.shields.io/badge/Brog-official-lightgrey)](https://baplisca.hatenablog.com/)<br>
+[![Brog](https://img.shields.io/badge/Brog-casual-lightgrey)](https://baplisca.hatenablog.com/)<br>
 [![Book Meter](https://img.shields.io/badge/BookMeter-casual-green)](https://bookmeter.com/users/1360670)
 
 ## My Web Site History
