@@ -21,7 +21,7 @@ Mainly I'm BackEnd Field
 [![My Skills](https://skillicons.dev/icons?i=ts,jest,nodejs,nestjs,mysql,redis,cs,cpp,go,rust,firebase,py,spring,rails&perline=8)](https://skillicons.dev)
 
 ### Others (Infra, CI/CD)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
 
 ## Other Skill
 * TOEIC 875 (L 470 R 405)
