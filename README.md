@@ -18,7 +18,7 @@ Mainly I'm BackEnd Field
 [![My Skills](https://skillicons.dev/icons?i=react,ts,styledcomponents,nextjs,js,html,css,unity,materialui&perline=7)](https://skillicons.dev)
 
 ### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=ts,jest,nodejs,nestjs,mysql,redis,cs,cpp,go,rust,firebase,py,spring,rails&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,jest,nodejs,nestjs,express,mysql,redis,cs,cpp,go,rust,firebase,py,spring,rails,sqlite&perline=8)](https://skillicons.dev)
 
 ### Others (Infra, CI/CD)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
