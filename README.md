@@ -51,7 +51,7 @@ Mainly I'm BackEnd Field
 ## Link
 [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FBaplisca)](https://atcoder.jp/users/Baplisca)<br>
 [![Twitter Followers](https://img.shields.io/twitter/follow/sooooouls?style=social)](https://twitter.com/sooooouls)<br>
-[![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=2592000)](https://github.com/Baplisca?tab=followers)<br>
+[![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=86400)](https://github.com/Baplisca?tab=followers)<br>
 [![YouTube views](https://img.shields.io/youtube/channel/views/UCUEUc2teEFnYEXG-MtEncrA?style=social)](https://www.youtube.com/@baplisca7980)<br>
 [![Profile views](https://gpvc.arturio.dev/Baplisca)](https://github.com/Baplisca)<br>
 [![Connpass](https://img.shields.io/badge/Connpass-casual-red)](https://connpass.com/user/Baplisca/)<br>
