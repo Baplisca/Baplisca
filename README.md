@@ -67,3 +67,5 @@ Mainly I'm BackEnd Field
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baplisca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=baplisca&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true&no-bg=true&theme=onedark)](https://github.com/Baplisca)
+
+![Contrinution](https://ssr-contributions-svg.vercel.app/_/Baplisca?chart=3dbar&format=svg)
