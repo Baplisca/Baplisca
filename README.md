@@ -26,7 +26,7 @@ Mainly I'm BackEnd Field
 ## Other Skill
 * TOEIC 875 (L 470 R 405)
 * Certified ScrumMaster® (CSM®)
-* MSc in Computer Science (2022)
+* MSc in Computer Science (field of study : combinatorial optimization, quantum annealing, optimization calculation)
 
 ## Language experience
 * TypeScript : Use this language full stack
