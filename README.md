@@ -1,16 +1,16 @@
 ## About Me
 I'm Application Engineer in Rakuten.
 
-Mainly I'm BackEnd Field 
-* Batch processing (TypeScript, Node.js, Jest, shell, csv handling)
-* Data extraction (Hadoop, HQL, MySQL, SQL)
+Mainly I'm Backend Field as below
 * BFF・API (Node.js, Nest.js, TypeORM or SpringBoot, Express, Socket.IO)
-* FrontEnd (React, Next.js, TypeScript, MobX, Recoil, Socket.IO)
+* Batch processing (TypeScript, Node.js, Jest, Shell, csv handling)
+* Data extraction (Hadoop, HQL, MySQL, SQL)
+* Frontend (React, Next.js, TypeScript, MobX, Recoil, Socket.IO)
 * Load reduction (Redis)
 * Microservices (k8s)
 * CI/CD (Jenkins)
-* Production release, operation, alert handling (PagerDuty)
-* Log search, monitoring (Splunk, Kibana, Grafana)
+* Production release, Operation, Alert handling (PagerDuty)
+* Log search, Monitoring (Splunk, Kibana, Grafana)
 * English Communication
 
 ## My Skills (Highly skilled from left)
@@ -24,9 +24,9 @@ Mainly I'm BackEnd Field
 [![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
 
 ## Other Skill
-* TOEIC 875 (L 470 R 405)
-* Certified ScrumMaster® (CSM®)
-* MSc in Computer Science (field of study : combinatorial optimization, quantum annealing, optimization calculation)
+* TOEIC 875 (L 470 R 405) 2021.5
+* Certified ScrumMaster® (CSM®) 2022.10
+* MSc in Computer Science (field of study : combinatorial optimization, quantum annealing, optimization calculation) 2022.3
 
 ## Language experience
 * TypeScript : Use this language full stack
