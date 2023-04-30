@@ -18,7 +18,7 @@ Mainly I'm Backend Field as below
 [![My Skills](https://skillicons.dev/icons?i=react,ts,styledcomponents,nextjs,js,html,css,unity,materialui&perline=7)](https://skillicons.dev)
 
 ### BackEnd
-[![My Skills](https://skillicons.dev/icons?i=ts,jest,nodejs,nestjs,express,mysql,redis,cs,cpp,go,rust,firebase,py,spring,rails,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,jest,nodejs,nestjs,express,,spring,mysql,redis,cs,cpp,go,rust,firebase,py,rails,sqlite&perline=8)](https://skillicons.dev)
 
 ### Others (Infra, CI/CD)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
@@ -31,12 +31,12 @@ Mainly I'm Backend Field as below
 ## Language experience
 * TypeScript : Use this language full stack
 * C++ : Competitive programming, game production [work movie](https://youtu.be/c98LeJbuA24)
-* Python : Data processing, Machine Learning
-* Java : Create API with Spring Boot and used R&D Intern
+* Python : Data processing, Part-time Machine Learning job at university
+* Java : API development using Spring boot in business and used R&D Intern
 * C# : game production with Unity [work movie](https://youtu.be/vHEbxELAfvk)
 * Ruby : Create a verification tool as an intern using Ruby on Rails [content](https://hackerslab.aktsk.jp/2021/03/31/102547)
 * Go, Rust : Basic skills and create simple api ([gin](https://github.com/gin-gonic/gin), [actix-web](https://github.com/actix/actix-web))
-* SQL : Use in business
+* SQL (HQL) : Use in business
 * SML (fp language) : Used in college class
 * Bash, AWK : Use in business
 * PHP : Created an simple inventory management tool with MySQL (SQL)
