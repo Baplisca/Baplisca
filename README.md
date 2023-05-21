@@ -2,15 +2,15 @@
 I'm Application Engineer in Rakuten.
 
 Mainly I'm Backend Field as below
-* BFF・API (Node.js, Nest.js, TypeORM or SpringBoot, Express, Socket.IO)
+* BFF・API (Node.js, Nest.js, TypeORM (TypeSript) or SpringBoot (Java), Express, Socket.IO)
 * Batch processing (TypeScript, Node.js, Jest, Shell, csv handling)
-* Data extraction (Hadoop, HQL, MySQL, SQL)
-* Frontend (React, Next.js, TypeScript, MobX, Recoil, Socket.IO)
+* DB・Data extraction (Hadoop, HQL, MySQL, SQL)
+* Frontend (React, Next.js, TypeScript, MobX, Zustand, Recoil, Socket.IO)
 * Load reduction (Redis)
 * Microservices (k8s)
 * CI/CD (Jenkins)
 * Production release, Operation, Alert handling (PagerDuty)
-* Log search, Monitoring (Splunk, Kibana, Grafana)
+* Log search, Monitoring (Splunk, Elasticsearch, Kibana, Grafana)
 * English Communication
 
 ## My Skills (Highly skilled from left)
