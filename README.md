@@ -38,7 +38,7 @@ Mainly I'm Backend Field as below
 * Go, Rust : Basic skills and create simple api ([gin](https://github.com/gin-gonic/gin), [actix-web](https://github.com/actix/actix-web))
 * SQL (HQL) : Use in business
 * SML (fp language) : Used in college class
-* Bash, AWK : Use in business
+* Shell, AWK : Use in business
 * PHP : Created an simple inventory management tool with MySQL (SQL)
 
 ## General Presentation
