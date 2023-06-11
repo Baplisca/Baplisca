@@ -11,7 +11,7 @@ Mainly I'm Backend Field as below
 * Microservices (k8s)
 * CI/CD (Jenkins)
 * Production release, Operation, Alert handling (PagerDuty)
-* Log search, Monitoring (Splunk, Grafana, Elasticsearch Logstash Kibana (ELK) )
+* Log search, Monitoring (Kibana alert, Splunk, Grafana, Elasticsearch Logstash Kibana (ELK) )
 * English Communication
 
 ## My Skills (Highly skilled from left)
