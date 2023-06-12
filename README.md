@@ -7,7 +7,7 @@ Mainly I'm Backend Field as below
 * Batch processing (TypeScript, Node.js, Jest, Shell, Cron, csv handling)
 * DB・Data extraction (Hadoop, HQL, MySQL, SQL, Cassandra)
 * Frontend (React, Next.js, TypeScript, MobX, Zustand, Recoil, Socket.IO)
-* Load reduction (Redis)
+* Load reduction (Redis, Kafka)
 * Microservices (k8s)
 * CI/CD (Jenkins)
 * Production release, Operation, Alert handling (PagerDuty)
