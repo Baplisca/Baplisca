@@ -10,8 +10,8 @@ Mainly I'm Backend Field as below
 * Load reduction (Redis, Kafka)
 * Microservices (k8s)
 * CI/CD (Jenkins)
-* Production release, Operation, Alert handling (PagerDuty)
-* Log search, Monitoring (Kibana alert, Splunk, Grafana, Elasticsearch Logstash Kibana (ELK) )
+* Production release, Operation, Alert handling (Kibana Alert -> PagerDuty)
+* Log search, Monitoring (Kibana, Splunk, Grafana, Elasticsearch Logstash Kibana (ELK) )
 * English Communication
 
 ## My Skills (Highly skilled from left)
