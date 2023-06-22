@@ -59,7 +59,8 @@ Mainly I'm Backend Field as below
 [![Connpass](https://img.shields.io/badge/Connpass-casual-red)](https://connpass.com/user/Baplisca/)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-official-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
 [![Brog](https://img.shields.io/badge/Brog-casual-lightgrey)](https://baplisca.hatenablog.com/)<br>
-[![Book Meter](https://img.shields.io/badge/BookMeter-casual-green)](https://bookmeter.com/users/1360670)
+[![Book Meter](https://img.shields.io/badge/BookMeter-casual-green)](https://bookmeter.com/users/1360670)<br>
+[![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-casual-black)](https://speakerdeck.com/baplisca/)
 
 ## My Web Site History
 ~~https://baplisca.github.io/~~ (Due to moving React) -> ~~https://baplisca.herokuapp.com/~~ (Due to abolishing freeplan heroku) -> https://baplisca.onrender.com/
