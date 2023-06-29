@@ -2,7 +2,7 @@
 I'm Application Engineer in Rakuten.
 
 Mainly I'm Backend Field as below
-* BFF・API (Node.js, Nest.js, TypeORM (TypeScript) or SpringBoot (Java), Express, Socket.IO, Jest or JUnit+Mockito)
+* BFF・API (Node.js, Nest.js, TypeORM (TypeScript) or SpringBoot (Java), Express, Socket.IO, Jest or JUnit+Mockito, Postman)
 * API Performance Test (Gatling (Scala))
 * Batch processing (TypeScript, Node.js, REST API, Jest, Shell, Cron, csv handling)
 * DB・Data extraction (Hadoop, HQL, MySQL, SQL, Cassandra)
