@@ -55,7 +55,7 @@ Mainly I'm Backend Field as below
 [![Twitter Followers](https://img.shields.io/twitter/follow/sooooouls?style=social)](https://twitter.com/sooooouls)<br>
 [![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=86400)](https://github.com/Baplisca?tab=followers)<br>
 [![YouTube views](https://img.shields.io/youtube/channel/views/UCUEUc2teEFnYEXG-MtEncrA?style=social)](https://www.youtube.com/@baplisca7980)<br>
-[![Profile views](https://gpvc.arturio.dev/Baplisca)](https://github.com/Baplisca)<br>
+![Profile views](https://komarev.com/ghpvc/?username=baplisca&color=green)<br>
 [![Connpass](https://img.shields.io/badge/Connpass-casual-red)](https://connpass.com/user/Baplisca/)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-official-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
 [![Brog](https://img.shields.io/badge/Brog-casual-lightgrey)](https://baplisca.hatenablog.com/)<br>
