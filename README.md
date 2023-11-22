@@ -25,9 +25,9 @@ Mainly I'm Backend Field as below
 [![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
 
 ## Other Skill
-* TOEIC 875 (L 470 R 405) 2021.5
-* Certified ScrumMaster® (CSM®) 2022.10
 * MSc in Computer Science (field of study : combinatorial optimization, quantum annealing, optimization calculation) 2022.3
+* Certified ScrumMaster® (CSM®) 2022.10
+* TOEIC 875 (L 470 R 405) 2021.5
 
 ## Language experience
 * TypeScript : Use this language full stack
@@ -43,11 +43,14 @@ Mainly I'm Backend Field as below
 * PHP : Created an simple inventory management tool with MySQL (SQL)
 
 ## General Presentation
-* [「ボイストラベラー」 技育展 2020 チーム開発部門](https://talent.supporterz.jp/geekten/2020/)
-* [「サークルで新感覚ボイスゲームを作った話」 Akatsuki Geek Live 2020-2021 Vol.1](https://aktsk.connpass.com/event/190782/)  [資料リンク](https://speakerdeck.com/baplisca/voicetraveler-in-akatsuki-lightning-talk)
-* 　[Rakuten Tech Conf 2022 in Sendai](https://rakutentechsendai.connpass.com/event/264431/)　運営
-* [「マシュマロチャレンジでチームビルディング体験」 はじめてのIT勉強会 in 仙台(2022)](https://lets-go-study-meeting.connpass.com/event/266091/)  [資料リンク](https://docs.google.com/presentation/d/1Hrw0ZhsqoEa2XX2PPY_wbf2jcEslF-p0XBGoFuerhgA/edit#slide=id.g199ce97adf9_2_121)
+* 「Java+MySQLからTypeScript+Cassandraへの移行開発」 Rakuten Tech Conf 2023
+* Rakuten Tech Conf 2023 in Sendai　運営
 * [「(超主観)ゲーム開発とWeb開発の違い」 はじめてのIT勉強会 in 仙台(2023)](https://lets-go-study-meeting.connpass.com/event/276114/) [資料リンク](https://speakerdeck.com/baplisca/chao-zhu-guan-gemukai-fa-towebkai-fa-nowei-i)
+* [「マシュマロチャレンジでチームビルディング体験」 はじめてのIT勉強会 in 仙台(2022)](https://lets-go-study-meeting.connpass.com/event/266091/)  [資料リンク](https://docs.google.com/presentation/d/1Hrw0ZhsqoEa2XX2PPY_wbf2jcEslF-p0XBGoFuerhgA/edit#slide=id.g199ce97adf9_2_121)
+* 　[Rakuten Tech Conf 2022 in Sendai](https://rakutentechsendai.connpass.com/event/264431/)　運営
+* [「サークルで新感覚ボイスゲームを作った話」 Akatsuki Geek Live 2020-2021 Vol.1](https://aktsk.connpass.com/event/190782/)  [資料リンク](https://speakerdeck.com/baplisca/voicetraveler-in-akatsuki-lightning-talk)
+* [「ボイストラベラー」 技育展 2020 チーム開発部門](https://talent.supporterz.jp/geekten/2020/)
+
 
 
 ## Link
