@@ -44,10 +44,10 @@ Mainly I'm Backend Field as below
 
 ## General Presentation
 * 「Java+MySQLからTypeScript+Cassandraへの移行開発」 Rakuten Tech Conf 2023
-* Rakuten Tech Conf 2023 in Sendai　運営
+*  [Rakuten Tech Conf 2023 in Sendai](https://rakutentechsendai.connpass.com/event/297724/)　運営
 * [「(超主観)ゲーム開発とWeb開発の違い」 はじめてのIT勉強会 in 仙台(2023)](https://lets-go-study-meeting.connpass.com/event/276114/) [資料リンク](https://speakerdeck.com/baplisca/chao-zhu-guan-gemukai-fa-towebkai-fa-nowei-i)
 * [「マシュマロチャレンジでチームビルディング体験」 はじめてのIT勉強会 in 仙台(2022)](https://lets-go-study-meeting.connpass.com/event/266091/)  [資料リンク](https://docs.google.com/presentation/d/1Hrw0ZhsqoEa2XX2PPY_wbf2jcEslF-p0XBGoFuerhgA/edit#slide=id.g199ce97adf9_2_121)
-* 　[Rakuten Tech Conf 2022 in Sendai](https://rakutentechsendai.connpass.com/event/264431/)　運営
+* [Rakuten Tech Conf 2022 in Sendai](https://rakutentechsendai.connpass.com/event/264431/)　運営
 * [「サークルで新感覚ボイスゲームを作った話」 Akatsuki Geek Live 2020-2021 Vol.1](https://aktsk.connpass.com/event/190782/)  [資料リンク](https://speakerdeck.com/baplisca/voicetraveler-in-akatsuki-lightning-talk)
 * [「ボイストラベラー」 技育展 2020 チーム開発部門](https://talent.supporterz.jp/geekten/2020/)
 
