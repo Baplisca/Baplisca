@@ -63,6 +63,7 @@ Mainly I'm Backend Field as below
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-official-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
 [![Brog](https://img.shields.io/badge/Brog-casual-lightgrey)](https://baplisca.hatenablog.com/)<br>
 [![Book Meter](https://img.shields.io/badge/BookMeter-casual-green)](https://bookmeter.com/users/1360670)<br>
+[![Game Meter](https://booklog.jp/users/baplisca)<br>
 [![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-casual-black)](https://speakerdeck.com/baplisca/)
 
 ## My Web Site History
