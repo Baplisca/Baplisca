@@ -5,7 +5,7 @@ Mainly I'm Backend Field as below
 * BFF・API (Node.js, Nest.js, TypeORM (TypeScript) or SpringBoot (Java), Express, Socket.IO, Jest or JUnit+Mockito, Postman)
 * API Performance Test (Gatling (Scala), k6)
 * Batch processing (TypeScript, Node.js, REST API, Jest, Shell, Cron, csv handling)
-* DB・Data extraction (Hadoop, HQL, MySQL, SQL, Cassandra)
+* DB・Data extraction (Hadoop-> BigQuery, HQL, MySQL, SQL, Cassandra)
 * Frontend (React, Next.js, TypeScript, MobX, Zustand, Socket.IO)
 * Load reduction (Redis, Kafka)
 * Microservices (k8s)
