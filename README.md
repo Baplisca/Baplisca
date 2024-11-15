@@ -43,6 +43,8 @@ Mainly I'm Backend Field as below
 * PHP : Created an simple inventory management tool with MySQL (SQL)
 
 ## General Presentation
+* 「R-MesseのAI機能紹介とRAGを用いた今後の改善」 Rakuten Tech Conf 2024
+*  [Rakuten Tech Conf 2024 in Sendai](https://rakutentechsendai.connpass.com/event/331753/)　運営
 * 「Java+MySQLからTypeScript+Cassandraへの移行開発」 Rakuten Tech Conf 2023
 *  [Rakuten Tech Conf 2023 in Sendai](https://rakutentechsendai.connpass.com/event/297724/)　運営
 * [「(超主観)ゲーム開発とWeb開発の違い」 はじめてのIT勉強会 in 仙台(2023)](https://lets-go-study-meeting.connpass.com/event/276114/) [資料リンク](https://speakerdeck.com/baplisca/chao-zhu-guan-gemukai-fa-towebkai-fa-nowei-i)
