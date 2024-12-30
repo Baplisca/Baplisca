@@ -25,6 +25,7 @@ Mainly I'm Backend Field as below
 [![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
 
 ## Other Skill
+* [Database Specialist](https://www.ipa.go.jp/shiken/kubun/db.html) 2024.10
 * MSc in Computer Science (field of study : combinatorial optimization, quantum annealing, optimization calculation) 2022.3
 * Certified ScrumMaster® (CSM®) 2022.10
 * TOEIC 875 (L 470 R 405) 2021.5
@@ -61,12 +62,13 @@ Mainly I'm Backend Field as below
 [![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=86400)](https://github.com/Baplisca?tab=followers)<br>
 [![YouTube views](https://img.shields.io/youtube/channel/views/UCUEUc2teEFnYEXG-MtEncrA?style=social)](https://www.youtube.com/@baplisca7980)<br>
 ![Profile views](https://komarev.com/ghpvc/?username=baplisca&color=green)<br>
-[![Connpass](https://img.shields.io/badge/Connpass-casual-red)](https://connpass.com/user/Baplisca/)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-official-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
-[![Brog](https://img.shields.io/badge/Brog-casual-lightgrey)](https://baplisca.hatenablog.com/)<br>
-[![Book Meter](https://img.shields.io/badge/BookMeter-casual-green)](https://bookmeter.com/users/1360670)<br>
-[![Game Meter](https://img.shields.io/badge/GameMeter-casual-yellow)](http://booklog.jp/users/baplisca)<br>
-[![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-casual-black)](https://speakerdeck.com/baplisca/)
+[![Connpass](https://img.shields.io/badge/Connpass-red)](https://connpass.com/user/Baplisca/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
+[![Blog](https://img.shields.io/badge/Blog-lightgrey)](https://baplisca.hatenablog.com/)<br>
+[![Book Meter](https://img.shields.io/badge/BookMeter-green)](https://bookmeter.com/users/1360670)<br>
+[![Game Meter](https://img.shields.io/badge/GameMeter-yellow)](http://booklog.jp/users/baplisca)<br>
+[![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-black)](https://speakerdeck.com/baplisca/)<br>
+[![Qiita](https://img.shields.io/badge/Qiita-pink)](https://qiita.com/Baplisca)
 
 ## My Web Site History
 ~~https://baplisca.github.io/~~ (Due to moving React) -> ~~https://baplisca.herokuapp.com/~~ (Due to abolishing freeplan heroku) -> https://baplisca.onrender.com/
