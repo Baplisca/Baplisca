@@ -58,7 +58,7 @@ Mainly I'm Backend Field as below
 
 ## Link
 [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FBaplisca)](https://atcoder.jp/users/Baplisca)<br>
-[![Twitter Followers](https://img.shields.io/twitter/follow/sooooouls?style=social)](https://twitter.com/sooooouls)<br>
+[![X Followers](https://img.shields.io/twitter/follow/sooooouls?style=social)](https://x.com/sooooouls)<br>
 [![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=86400)](https://github.com/Baplisca?tab=followers)<br>
 [![YouTube views](https://img.shields.io/youtube/channel/views/UCUEUc2teEFnYEXG-MtEncrA?style=social)](https://www.youtube.com/@baplisca7980)<br>
 ![Profile views](https://komarev.com/ghpvc/?username=baplisca&color=green)<br>
@@ -68,7 +68,7 @@ Mainly I'm Backend Field as below
 [![Book Meter](https://img.shields.io/badge/BookMeter-green)](https://bookmeter.com/users/1360670)<br>
 [![Game Meter](https://img.shields.io/badge/GameMeter-yellow)](http://booklog.jp/users/baplisca)<br>
 [![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-black)](https://speakerdeck.com/baplisca/)<br>
-[![Qiita](https://img.shields.io/badge/Qiita-pink)](https://qiita.com/Baplisca)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500)](https://qiita.com/Baplisca)
 
 ## My Web Site History
 ~~https://baplisca.github.io/~~ (Due to moving React) -> ~~https://baplisca.herokuapp.com/~~ (Due to abolishing freeplan heroku) -> https://baplisca.onrender.com/
