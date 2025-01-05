@@ -62,10 +62,10 @@ Mainly I'm Backend Field as below
 [![GitHub followers](https://img.shields.io/github/followers/Baplisca.svg?style=social&label=follow&maxAge=86400)](https://github.com/Baplisca?tab=followers)<br>
 [![YouTube views](https://img.shields.io/youtube/channel/views/UCUEUc2teEFnYEXG-MtEncrA?style=social)](https://www.youtube.com/@baplisca7980)<br>
 ![Profile views](https://komarev.com/ghpvc/?username=baplisca&color=green)<br>
-[![Connpass](https://img.shields.io/badge/Connpass-red)](https://connpass.com/user/Baplisca/)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/koetsu-yokota/)<br>
+[![Connpass](https://img.shields.io/badge/Connpass-D52E02)](https://connpass.com/user/Baplisca/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/koetsu-yokota/)<br>
 [![Blog](https://img.shields.io/badge/Blog-lightgrey)](https://baplisca.hatenablog.com/)<br>
-[![Book Meter](https://img.shields.io/badge/BookMeter-green)](https://bookmeter.com/users/1360670)<br>
+[![Book Meter](https://img.shields.io/badge/BookMeter-56970a)](https://bookmeter.com/users/1360670)<br>
 [![Game Meter](https://img.shields.io/badge/GameMeter-yellow)](http://booklog.jp/users/baplisca)<br>
 [![SpeakerDeck](https://img.shields.io/badge/SpeakerDeck-black)](https://speakerdeck.com/baplisca/)<br>
 [![Qiita](https://img.shields.io/badge/Qiita-55C500)](https://qiita.com/Baplisca)
