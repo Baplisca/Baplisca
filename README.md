@@ -5,7 +5,7 @@ Mainly I'm Backend Field as below
 * BFF・API (Node.js, Nest.js, TypeORM (TypeScript) or SpringBoot (Java), Express, Socket.IO, Jest or JUnit+Mockito, Postman)
 * API Performance Test (Gatling (Scala), k6)
 * Batch processing (TypeScript, Node.js, REST API, Jest, Shell, Cron, csv handling)
-* DB・Data extraction (Hadoop-> BigQuery, HQL, MySQL, SQL, Cassandra)
+* DB・Data extraction (Hadoop, BigQuery, HQL, MySQL, SQL, Cassandra)
 * Frontend (React, Next.js, TypeScript, MobX, Zustand, Socket.IO)
 * Load reduction (Redis, Kafka)
 * Microservices (k8s)
@@ -25,7 +25,7 @@ Mainly I'm Backend Field as below
 [![My Skills](https://skillicons.dev/icons?i=git,docker,heroku,latex,aws,gcp,nginx,kubernetes,vim,jenkins,grafana,linux,md,mysql,vscode&perline=8)](https://skillicons.dev)
 
 ## Other Skill
-* [Database Specialist](https://www.ipa.go.jp/shiken/kubun/db.html) 2024.10
+* [Database Specialist Examination](https://www.ipa.go.jp/shiken/kubun/db.html) 2024.10
 * MSc in Computer Science (field of study : combinatorial optimization, quantum annealing, optimization calculation) 2022.3
 * Certified ScrumMaster® (CSM®) 2022.10
 * TOEIC 875 (L 470 R 405) 2021.5
